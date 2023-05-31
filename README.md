@@ -36,6 +36,20 @@ Link both javascript files from js folder to your page. This is how it looks on 
 ```
 **simple-jekyll-search.js** is the search code base itself with new features.
 
+I'm using `visually-hidden` css class there to visually hide results. Add this to your CSS:
+```
+.visually-hidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+``` 
+
 **search.js** is the options you can tweak:
 ```js
 // id of search input
