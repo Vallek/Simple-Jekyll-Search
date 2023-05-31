@@ -2,7 +2,7 @@
 
 Simple-Jekyll-Search adds search functionality to any Jekyll blog.
 
-This is a fork of now archived [Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search) by @christian-fei with some added features.
+This is a fork of now archived [Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search) by [@christian-fei](https://github.com/christian-fei) with some added features.
 
 I could only make it work on my sites by manually linking javascript file. The extension is also not supported on GitHub Pages. So I decided to leave only search extension files here since i'm not going to change anything else. 
 
