@@ -71,6 +71,9 @@ You can change all of that if needed. I found fuzzy to be not very helpful. At l
 
 Altogether you need to add 3 (three) files to your project + install npm modules.
 
+## Styling
+This comes without any styles (for now at least). You can try to use mine from [Web Dev Tips](https://github.com/Vallek/webdevtips/blob/master/_sass/minima/_layout.scss#LL135C1-L135C10).
+
 If you have problem please try to search [original repo](https://github.com/christian-fei/Simple-Jekyll-Search/issues?q=is%3Aissue+is%3Aclosed) and [readme](https://github.com/christian-fei/Simple-Jekyll-Search#readme) first. And then you can ask here of course)  
 
 Thanks to [@christian-fei](https://github.com/christian-fei) for his work.
