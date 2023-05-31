@@ -73,10 +73,20 @@ Altogether you need to add 3 (three) files to your project + install npm modules
 
 If you have problem please try to search [original repo](https://github.com/christian-fei/Simple-Jekyll-Search/issues?q=is%3Aissue+is%3Aclosed) and [readme](https://github.com/christian-fei/Simple-Jekyll-Search#readme) first. And then you can ask here of course)  
 
-Thanks to @christian-fei for his work.
+Thanks to [@christian-fei](https://github.com/christian-fei) for his work.
 
 ## Contributors (from original repo readme)
 
-Thanks to all contributors over the years! You are the best :)
+Thanks to all [contributors](https://github.com/christian-fei/Simple-Jekyll-Search/graphs/contributors) over the years! You are the best :)
 
-    @daviddarnes @XhmikosR @PeterDaveHello @mikeybeck @egladman @midzer @eduardoboucas @kremalicious @tibotiber and many others!
+> [@daviddarnes](https://github.com/daviddarnes)
+[@XhmikosR](https://github.com/XhmikosR)
+[@PeterDaveHello](https://github.com/PeterDaveHello)
+[@mikeybeck](https://github.com/mikeybeck)
+[@egladman](https://github.com/egladman)
+[@midzer](https://github.com/midzer)
+[@eduardoboucas](https://github.com/eduardoboucas)
+[@kremalicious](https://github.com/kremalicious)
+[@tibotiber](https://github.com/tibotiber)
+and many others!
+
