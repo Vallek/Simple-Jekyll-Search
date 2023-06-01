@@ -10,9 +10,10 @@ For demo you can check my [WebDevTips](https://vallek.github.io/webdevtips/) sit
 
 **But you still need to install original npm package for build to work!**
 
-## Added features
+## Added features and fixes
 * Hides results container when there's no results
 * Shows results container on focus, hides on focus lost
+* Fix flickering if debounce time is set
 
 So you can style search results container how you want. In original it would show up empty (with borders for example).
 
