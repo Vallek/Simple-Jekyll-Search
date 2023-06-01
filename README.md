@@ -66,6 +66,8 @@ searchInput: document.getElementById('search-input'),
 		limit: 10,
     // Fuzzy search
 		fuzzy: false,
+    // Search delay after input in ms, recommended for big data sets 
+    debounceTime: 100,
 ```
 You can change all of that if needed. I found fuzzy to be not very helpful. At least without more details in search results (which may be coming). 
 
